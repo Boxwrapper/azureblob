@@ -1,8 +1,6 @@
 # Azure Blobstorage
 
-## Super simple warpper around the Azure Blobstorage SDK for GO
-
-This three file library aims to make the usage of the Azure SDK (Go) for Blobs a whole lot simpler and can be used as a starting point for much more complex projects. It was created for interfacing with Blobs on Azure Storageaccounts containing JSON data, though custom services can be created that are the able to store different types of documents on an Azure Storageaccount.
+This three file library aims to make the usage of the [Azure SDK (Go) for Blobs](https://github.com/Azure/azure-storage-blob-go) a whole lot simpler and can be used as a starting point for much more complex projects. It was created for interfacing with Blobs on Azure Storageaccounts containing JSON data, though custom services can be created that are the able to store different types of documents on an Azure Storageaccount.
 
 There are three components to this library:
 
